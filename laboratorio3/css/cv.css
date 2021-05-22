@@ -1,0 +1,38 @@
+.contenedor {
+  background-color: darkgrey;
+  font-family: "Big Shoulders Display", cursive;
+}
+h1 {
+  text-align: center;
+  font-family: "Big Shoulders Display", cursive;
+  color: aliceblue;
+}
+* {
+  margin: 0;
+
+  box-sizing: border-box;
+}
+.datos {
+  text-align: center;
+  color: blue;
+  font-family: "Big Shoulders Display", cursive;
+}
+li {
+  color: blue;
+  font-family: "Big Shoulders Display", cursive;
+}
+.img img {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nombre h2 {
+  text-align: center;
+  font-family: "Big Shoulders Display", cursive;
+}
+.curriculum {
+  background-color: darkslategray;
+  width: auto;
+  height: 70px;
+}
